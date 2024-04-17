@@ -28,7 +28,7 @@
 
 @media (min-width: 768px) {
   .container {
-    max-width: 94%;
+    max-width: 720px;
   }
 }
 
@@ -108,5 +108,15 @@
 }
 
 .btn {
+}
+
+.rediv {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  border-radius: 1rem;
+}
+
+.flip-x {
+  transform: scaleX(-1);
 }
 

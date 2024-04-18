@@ -1,11 +1,4 @@
 @media (max-width: 1200px) {
-  .dev-head img .char-icon {
-    width: 10%;
-    height: auto;
-  }
-}
-
-@media (max-width: 1200px) {
   .dev-head div .rediv {
     margin-left: 1rem;
     margin-right: 1rem;
@@ -38,38 +31,6 @@
   }
 }
 
-@media (max-width: 300px) {
-  .container, .char-icon {
-    width: 60%;
-  }
-}
-
-@media (max-width: 300px) {
-  .char-icon {
-    width: 50px;
-    height: 50px;
-  }
-}
-
-@media (min-width: 576px) {
-  .char-icon {
-    width: 150px;
-    height: 150px;
-  }
-}
-
-@media (min-width: 500px) {
-  .left-head {
-    display: none;
-  }
-}
-
-@media (max-width: 500px) {
-  .right-head {
-    display: none;
-  }
-}
-
 @media (min-width: 768px) {
   .banner {
     width: 720px;
@@ -97,17 +58,8 @@
   }
 }
 
-@media (min-width: 500px) {
-  .left-head {
-    display: none;
-  }
-}
-
 .white-icon {
   filter: invert(0%) sepia(100%) saturate(0%) hue-rotate(0deg) brightness(100%) contrast(1000%);
-}
-
-.btn {
 }
 
 .rediv {

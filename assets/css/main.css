@@ -63,6 +63,7 @@
 }
 
 .rediv {
+  background: var(--bs-black);
   padding-top: 3rem;
   padding-bottom: 3rem;
   border-radius: 1rem;
@@ -70,5 +71,10 @@
 
 .flip-x {
   transform: scaleX(-1);
+}
+
+.main-contain {
+  padding: 0;
+  text-align: center;
 }
 

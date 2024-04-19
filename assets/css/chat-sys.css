@@ -77,3 +77,9 @@
   height: auto;
 }
 
+@media (min-width: 576px) {
+  .char-icon img {
+    width: 100%;
+  }
+}
+
